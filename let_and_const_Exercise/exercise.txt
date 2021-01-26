@@ -1,0 +1,19 @@
+Instead of var PI = 3.14
+Use const PI = 3.14
+
+
+1. What is the difference between var and let?
+
+"var" is able to redeclare and reassign a variable while "let" only allows reassignment.
+
+2. What is the difference between var and const?
+
+"var" is able to redeclare and reassign a variable while "const" does not allow reassignment or redeclaration.
+
+3. What is the difference between let and const?
+
+"let" allows reassignment but "const" does not.
+
+4. What is hoisting?
+
+Hoisting is a Javascript behavior that moves declorations to the top. 
